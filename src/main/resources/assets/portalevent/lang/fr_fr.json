@@ -1,0 +1,9 @@
+{
+  "message.portalevent.dimension_closed": "La dimension est fermée ! Vous avez été téléporté dans l'Overworld",
+  "message.portalevent.nether_closed": "Le Nether est fermé pour le moment !",
+  "message.portalevent.end_closed": "L'End est fermé pour le moment !",
+  "message.portalevent.portal_open": "✔ Le portail %s est maintenant OUVERT !",
+  "message.portalevent.portal_close": "✖ Le portail %s est maintenant FERMÉ !",
+  "message.portalevent.countdown_open": "Le portail %s ouvrira dans %s minute(s) (à %s)",
+  "message.portalevent.countdown_close": "Le portail %s fermera dans %s minute(s) (à %s)"
+}

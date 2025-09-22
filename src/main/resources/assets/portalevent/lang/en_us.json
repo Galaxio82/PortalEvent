@@ -1,0 +1,9 @@
+{
+  "message.portalevent.dimension_closed": "The dimension is closed! You have been teleported to the Overworld",
+  "message.portalevent.nether_closed": "The Nether is currently closed!",
+  "message.portalevent.end_closed": "The End is currently closed!",
+  "message.portalevent.portal_open": "✔ The portal %s is now OPEN!",
+  "message.portalevent.portal_close": "✖ The portal %s is now CLOSED!",
+  "message.portalevent.countdown_open": "The portal %s will open in %s minute(s) (at %s)",
+  "message.portalevent.countdown_close": "The portal %s will close iin %s minute(s) (at %s)"
+}
